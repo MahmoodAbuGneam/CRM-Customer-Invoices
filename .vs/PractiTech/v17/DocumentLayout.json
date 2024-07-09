@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|c:\\users\\mahmood\\source\\repos\\practitech\\practitech\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|solutionrelative:practitech\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|c:\\users\\mahmood\\source\\repos\\practitech\\practitech\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|solutionrelative:practitech\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|c:\\users\\mahmood\\source\\repos\\practitech\\practitech\\models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|solutionrelative:practitech\\models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|c:\\users\\mahmood\\source\\repos\\practitech\\practitech\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|solutionrelative:practitech\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|c:\\users\\mahmood\\source\\repos\\practitech\\practitech\\requests\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|solutionrelative:practitech\\requests\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|c:\\users\\mahmood\\source\\repos\\practitech\\practitech\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|solutionrelative:practitech\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|c:\\users\\mahmood\\source\\repos\\practitech\\practitech\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F03227-BE50-4440-9BFF-F1E1355DCFAF}|PractiTech\\CRM-Backend.csproj|solutionrelative:practitech\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "PractiTech\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "PractiTech\\Controllers\\InvoicesController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAhwHkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:51:31.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\InvoiceContext.cs",
+              "RelativeDocumentMoniker": "PractiTech\\Models\\InvoiceContext.cs",
+              "ToolTip": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\InvoiceContext.cs",
+              "RelativeToolTip": "PractiTech\\Models\\InvoiceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:51:29.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "PractiTech\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\Invoice.cs",
+              "RelativeToolTip": "PractiTech\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:02:55.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\requests\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "PractiTech\\requests\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\requests\\CustomerRequest.cs",
+              "RelativeToolTip": "PractiTech\\requests\\CustomerRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:51:13.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "PractiTech\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "PractiTech\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:47:14.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "PractiTech\\Models\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\CustomerContext.cs",
+              "RelativeToolTip": "PractiTech\\Models\\CustomerContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:47:12.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PractiTech\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\PractiTech\\Models\\Customer.cs",
+              "RelativeToolTip": "PractiTech\\Models\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:47:10.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
