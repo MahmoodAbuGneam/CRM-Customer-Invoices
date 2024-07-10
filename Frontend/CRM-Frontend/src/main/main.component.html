@@ -1,0 +1,11 @@
+<!-- src/app/main.component.html -->
+<div class="container">
+  <app-form (customerAdded)="handleCustomerAdded($event)"></app-form>
+  <app-table
+    [title]="'Customers'"
+    [displayColumns]="displayColumns"
+    [columns]="columns"
+    [data]="data"
+    (customerDeleted)="handleCustomerDeleted($event)">
+  </app-table>
+</div>

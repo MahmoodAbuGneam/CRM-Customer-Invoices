@@ -1,0 +1,24 @@
+<!-- src/app/table.component.html -->
+<div class="page-header">{{ title }}</div>
+<table>
+  <thead>
+  <tr>
+    <th *ngFor="let col of displayColumns">{{ col }}</th>
+    <th>Actions</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let entry of data">
+    <td *ngFor="let col of columns">
+      <a *ngIf="col === 'name'" [routerLink]="['/customer', entry.id]" target="_blank">{{ entry[col] }}</a>
+      <span *ngIf="col !== 'name'">{{ entry[col] }}</span>
+    </td>
+    <td>
+      <button class="delete" (click)="deleteCustomer(entry.id)">Delete</button>
+    </td>
+  </tr>
+  <tr *ngIf="data.length === 0">
+    <td [attr.colspan]="displayColumns.length + 1">No data available</td>
+  </tr>
+  </tbody>
+</table>
