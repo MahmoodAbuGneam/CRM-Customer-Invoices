@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\CRM-Backend\\CRM-Backend.csproj": {}
+    "C:\\Users\\Mahmood\\Desktop\\CRM-Customer-Invoices\\LatestGithub-CRM\\CRM-Customer-Invoices\\Backend\\CRM-Backend\\CRM-Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\CRM-Backend\\CRM-Backend.csproj": {
+    "C:\\Users\\Mahmood\\Desktop\\CRM-Customer-Invoices\\LatestGithub-CRM\\CRM-Customer-Invoices\\Backend\\CRM-Backend\\CRM-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\CRM-Backend\\CRM-Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Mahmood\\Desktop\\CRM-Customer-Invoices\\LatestGithub-CRM\\CRM-Customer-Invoices\\Backend\\CRM-Backend\\CRM-Backend.csproj",
         "projectName": "CRM-Backend",
-        "projectPath": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\CRM-Backend\\CRM-Backend.csproj",
+        "projectPath": "C:\\Users\\Mahmood\\Desktop\\CRM-Customer-Invoices\\LatestGithub-CRM\\CRM-Customer-Invoices\\Backend\\CRM-Backend\\CRM-Backend.csproj",
         "packagesPath": "C:\\Users\\Mahmood\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\CRM-Backend\\obj\\",
+        "outputPath": "C:\\Users\\Mahmood\\Desktop\\CRM-Customer-Invoices\\LatestGithub-CRM\\CRM-Customer-Invoices\\Backend\\CRM-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahmood\\AppData\\Roaming\\NuGet\\NuGet.Config",

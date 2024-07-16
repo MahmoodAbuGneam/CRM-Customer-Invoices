@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SD62pUv3Ax4=",
+  "dgSpecHash": "DDaC87QnHgs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmood\\source\\repos\\PractiTech\\CRM-Backend\\CRM-Backend.csproj",
+  "projectFilePath": "C:\\Users\\Mahmood\\Desktop\\CRM-Customer-Invoices\\LatestGithub-CRM\\CRM-Customer-Invoices\\Backend\\CRM-Backend\\CRM-Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmood\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Mahmood\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

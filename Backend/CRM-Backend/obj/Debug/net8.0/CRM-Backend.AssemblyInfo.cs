@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM-Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26f3e6f345a9707993fa3135c68ba56f0b0a354f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM-Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM-Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

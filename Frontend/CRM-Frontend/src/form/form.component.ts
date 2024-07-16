@@ -31,16 +31,23 @@ export class FormComponent implements OnInit {
 
   submit() {
     const customer: Customer = {
-      id: this.group.get('id')?.value ?? '',
+      id: '', // This will be set by the server
       name: this.group.get('name')?.value ?? '',
-      phoneNum: this.group.get('phoneNum')?.value ?? '', // Ensure this matches backend
+      phoneNum: this.group.get('phoneNum')?.value ?? '',
       address: this.group.get('address')?.value ?? '',
     };
 
-    this.http.post<Customer>("https://localhost:7197/api/customers/", customer).subscribe((value) => {
-      console.log(value);
-      this.customerAdded.emit(customer);
-      this.group.reset();
-    });
+    this.http.post<Customer>("https://localhost:7197/api/customers/", customer).subscribe(
+      (createdCustomer) => {
+        console.log('Customer created:', createdCustomer);
+        this.customerAdded.emit(createdCustomer); // Emit the customer returned by the server
+        this.group.reset();
+      },
+      (error) => {
+        console.error('Error creating customer:', error);
+      }
+    );
   }
+
+
 }

@@ -12,7 +12,7 @@ interface Customer {
 @Component({
   selector: 'app-table',
   standalone: true,
-  imports: [CommonModule, RouterLink], // Add CommonModule here
+  imports: [CommonModule, RouterLink],
   templateUrl: './table.component.html',
   styleUrl: './table.component.css'
 })

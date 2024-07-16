@@ -20,7 +20,13 @@ export class MainComponent implements OnInit {
   constructor(private backendService: BackendService) {}
 
   handleCustomerAdded(customer: Customer) {
-    this.data.push(customer);
+    console.log('New customer added:', customer);
+    // Ensure the customer has an ID before adding to the data array
+    if (customer.id) {
+      this.data.push(customer);
+    } else {
+      console.error('Customer added without an ID:', customer);
+    }
   }
 
   handleCustomerDeleted(id: string) {
@@ -31,6 +37,7 @@ export class MainComponent implements OnInit {
 
   ngOnInit(): void {
     this.backendService.getCustomers().subscribe((customers: Customer[]) => {
+      console.log('Loaded customers:', customers);
       this.data = customers;
     });
   }
